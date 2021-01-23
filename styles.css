@@ -13,9 +13,11 @@ body {
 ul li {
     list-style-type: none;
     color: white; 
+    font-size: 1.5rem;
+    padding: .5em;
 }
 
 ul li a {
     color: white;
-    font-size: 1.5em;
+    font-size: 1em;
 }
